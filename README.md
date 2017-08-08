@@ -16,3 +16,4 @@ Para que se tenha uma correta desenvoltura do código é necessário atentar par
   Atento ao fato de que, os melhores indivíduos de cada geração sempre são armazenados no mesmo arquivo, cada pista com seu respectivo arquivo, então, para não perder essa informação, é sugerida a criação de novos arquivos "MelhoresIndividuos".pickle para guardar os melhores de cada diferente teste desejado, caso necessário.
 
 O link para melhores explicações do funcionamento e descrição do algoritmo é o seguinte:
+https://youtu.be/RQGkUaX00lk
